@@ -1,2 +1,2 @@
 # semantic-segmenter
-Applies semantic segmentation to given images with resnet101 model
+Applies semantic segmentation to given images with respect to 20 classes
